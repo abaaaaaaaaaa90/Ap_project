@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/app.dir/src/main.cpp.o CMakeFiles/app.dir/src/cloth.cpp.o CMakeFiles/app.dir/src/sewingMachine.cpp.o CMakeFiles/app.dir/src/thread.cpp.o CMakeFiles/app.dir/src/tool.cpp.o CMakeFiles/app.dir/src/needle.cpp.o CMakeFiles/app.dir/src/meter.cpp.o  -o app 
